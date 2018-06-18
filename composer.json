@@ -1,0 +1,14 @@
+{
+    "name": "ustim/new_180618",
+    "type": "yii",
+    "require": {
+        "composer/installers": "^1.5",
+        "psr/simple-cache": "1"
+    },
+    "authors": [
+        {
+            "name": "Nikolay Ustymenko",
+            "email": "nikolay.ustymenko@sunsoft.pro"
+        }
+    ]
+}
