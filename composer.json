@@ -4,7 +4,8 @@
     "require": {
         "composer/installers": "^1.5",
         "psr/simple-cache": "1",
-        "jms/serializer": "^1.12"
+        "jms/serializer": "^1.12",
+        "symfony/yaml": "^4.1"
     },
     "authors": [
         {
