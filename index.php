@@ -1,6 +1,6 @@
 <?php
 
-require __DIR__ . '/InMemoryDataStorage.php';
+require__DIR__ . '/InMemoryDataStorage.php';
 require __DIR__ . '/NotImplementedException.php';
 
 $storage = new InMemoryDataStorage();

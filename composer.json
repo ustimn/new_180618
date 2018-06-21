@@ -1,5 +1,6 @@
 {
     "name": "ustim/new_180618",
+    "description": "",
     "type": "yii",
     "require": {
         "composer/installers": "^1.5",
@@ -12,7 +13,12 @@
             "name": "Nikolay Ustymenko",
             "email": "nikolay.ustymenko@sunsoft.pro"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\DesignPatterns\\": "src/"
+        }
+    }
 
 
 }
