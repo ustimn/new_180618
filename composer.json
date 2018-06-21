@@ -3,7 +3,8 @@
     "type": "yii",
     "require": {
         "composer/installers": "^1.5",
-        "psr/simple-cache": "1"
+        "psr/simple-cache": "1",
+        "jms/serializer": "^1.12"
     },
     "authors": [
         {
@@ -11,4 +12,6 @@
             "email": "nikolay.ustymenko@sunsoft.pro"
         }
     ]
+
+
 }

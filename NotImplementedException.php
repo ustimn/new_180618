@@ -7,5 +7,6 @@ class NotImplementedException extends \LogicException
         $message = 'Method not implemented!';
 
         parent::__construct($message, $code, $previous);
-    }
 }
+
+?>
